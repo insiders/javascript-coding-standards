@@ -1,0 +1,33 @@
+{
+    "name": "@insiders/eslint-config-react",
+    "version": "1.0.0",
+    "description": "React JS ESLint configuration for Insiders projects",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/insiders/javascript-coding-standards.git",
+        "directory": "packages/eslint-config-react"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "insiders"
+    ],
+    "author": "Insiders",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/insiders/javascript-coding-standards/issues"
+    },
+    "dependencies": {
+        "@insiders/eslint-config-base": "^1.0.0",
+        "eslint": "^7.9.0",
+        "eslint-plugin-import": "^2.22.0",
+        "eslint-config-airbnb": "^17.1.1",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-react": "^7.14.3"
+    },
+    "peerDependencies": {
+        "eslint": "^7.9.0",
+        "eslint-plugin-import": "^2.22.0"
+    }
+}
