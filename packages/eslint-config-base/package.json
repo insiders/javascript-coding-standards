@@ -18,7 +18,7 @@
     "bugs": {
         "url": "https://github.com/insiders/javascript-coding-standards/issues"
     },
-    "dependencies": {
+    "devDependencies": {
         "eslint": "^7.9.0",
         "eslint-config-airbnb-base": "^14.2.0",
         "eslint-plugin-import": "^2.22.0"
