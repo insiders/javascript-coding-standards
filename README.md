@@ -1,11 +1,6 @@
 # javascript-coding-standards
 
-## Installation
+Check the readme in the packages for specific installation instructions:
 
-```bash
-npm install --save-dev @insiders/eslint-config-(base|react)
-```
-
-## Setup
-
-Extend `@insiders/eslint-config-(base|react)` in your projects `.eslintrc` config file.
+* [eslint-config-base](packages/eslint-config-base/README.md)
+* [eslint-config-react](packages/eslint-config-react/README.md)
