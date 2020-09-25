@@ -1,0 +1,30 @@
+{
+    "name": "@insiders/eslint-config-base",
+    "version": "1.0.0",
+    "description": "Base JS ESLint configuration for Insiders projects",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/insiders/javascript-coding-standards.git",
+        "directory": "packages/eslint-config-base"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "insiders"
+    ],
+    "author": "Insiders",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/insiders/javascript-coding-standards/issues"
+    },
+    "devDependencies": {
+        "eslint": "^7.9.0",
+        "eslint-config-airbnb-base": "^14.2.0",
+        "eslint-plugin-import": "^2.22.0"
+    },
+    "peerDependencies": {
+        "eslint": "^7.9.0",
+        "eslint-plugin-import": "^2.22.0"
+    }
+}
