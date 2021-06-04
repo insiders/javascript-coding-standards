@@ -1,6 +1,6 @@
 {
     "name": "@insiders/eslint-config-react",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "React JS ESLint configuration for Insiders projects",
     "main": "index.js",
     "repository": {
